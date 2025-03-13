@@ -27,3 +27,10 @@ docker compose up -d
 
 - MongoDb
 - Nest
+
+
+5. Reconstruir la base ded atos con la semilla
+
+```
+http://localhost:3000/api/v2/seed
+```
